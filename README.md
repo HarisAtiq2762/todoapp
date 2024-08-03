@@ -13,14 +13,11 @@ A simple Todo List application built with Flutter 3.19.2 and `flutter_bloc` for 
 
 ## Screenshots
 
-### Empty Todo List
-![emptyList.png](screenshots%2FemptyList.png)
-
-### Add Todo
-![addTodo.png](screenshots%2FaddTodo.png)
-
-### Todo List
-![todoList.png](screenshots%2FtodoList.png)
+<p align="center">
+  <img src="screenshots/emptyList.png" alt="Empty Todo List" width="200"/>
+  <img src="screenshots/addTodo.png" alt="Add Todo" width="200"/>
+  <img src="screenshots/todoList.png" alt="Todo List" width="200"/>
+</p>
 
 
 ## Setup Instructions
