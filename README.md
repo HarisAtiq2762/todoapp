@@ -45,7 +45,7 @@ You can download the APK file from the link below:
 
 ## State Management
 
-The app uses `flutter_bloc` for state management. The BLoC pattern is used to handle the state of the todo items, including loading, adding, updating, and deleting todos.
+The app uses flutter_bloc for state management and follows the MVVM (Model-View-ViewModel) architecture. The BLoC pattern is used to handle the state of the todo items, including loading, adding, updating, and deleting todos.
 
 ## Assumptions
 
