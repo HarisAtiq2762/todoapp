@@ -19,6 +19,11 @@ A simple Todo List application built with Flutter 3.19.2 and `flutter_bloc` for 
   <img src="screenshots/todoList.png" alt="Todo List" width="200"/>
 </p>
 
+## Download APK
+
+You can download the APK file from the link below:
+
+[Download Todo List App APK](https://drive.google.com/file/d/12vcXGBJDUisQ1XXwvoE8E9nBYuWiJ5Ea/view?usp=sharing)
 
 ## Setup Instructions
 
