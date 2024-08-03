@@ -7,7 +7,21 @@ A simple Todo List application built with Flutter 3.19.2 and `flutter_bloc` for 
 
 - Create, read, update, and delete todo items
 - Mark todo items as complete or incomplete
+- Search functionality for todo items
 - Data persistence with SQLite
+
+
+## Screenshots
+
+### Empty Todo List
+![emptyList.png](screenshots%2FemptyList.png)
+
+### Add Todo
+![addTodo.png](screenshots%2FaddTodo.png)
+
+### Todo List
+![todoList.png](screenshots%2FtodoList.png)
+
 
 ## Setup Instructions
 
